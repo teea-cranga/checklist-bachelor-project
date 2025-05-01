@@ -18,6 +18,31 @@ A checklist with TODO's for my Bachelor's project, since it is easier for me to 
       
  ---    
 
-TO MODIFY SOON
 ## Part 2: Create new Post Form ❌
+- [x] Make all buttons functional
+  - [ ] Make pin appear on location selector
+  - [ ] ❗️Fix bug where you can't like/unlike posts after you closed map and "create new post" form
+
+---
+
 ## Part 3: Bird AI Picture Detector ❌
+- [ ] Create .py script with the API
+  - [ ] Add Python Rest API plugin in application
+  - [ ] Make it work
+  - [ ] Make a section on posts where the bird species is shown
+
+---
+
+## Part 4: Statistics ❌
+- [ ] Create map section to see location of every post on platform
+- [ ] Tie API results to "Most seen 5 bird species" stats
+- [ ] Use post coordinates to compute closest city
+  - [ ] Add locations to "Top 5 locations" stats
+ 
+---
+
+## Part 5: Feedback and report functions ❌
+- [ ] Add feedback condition
+  - [ ] Add function that updates the bird showed on post
+- [ ] Add report function
+- [ ] Make validations
