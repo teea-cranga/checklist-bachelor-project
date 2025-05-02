@@ -18,11 +18,11 @@ A checklist with TODO's for my Bachelor's project, since it is easier for me to 
       
  ---    
 
-## Part 2: Create new Post Form ❌
+## Part 2: Create new Post Form ✅
 - [x] Make all buttons functional
-  - [ ] Make pin appear on location selector
-  - [ ] ❗️Fix bug where you can't like/unlike posts after you closed map and "create new post" form
-
+  - [x] Make pin appear on location selector
+  - [x] ❗️Fix bug where you can't like/unlike posts after you closed map and "create new post" form
+  - [ ] **OPTIONAL:** Make warning messages if the mandatory fields are not filled.
 ---
 
 ## Part 3: Bird AI Picture Detector ❌
