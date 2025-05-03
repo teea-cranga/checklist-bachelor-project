@@ -23,6 +23,11 @@ A checklist with TODO's for my Bachelor's project, since it is easier for me to 
   - [x] Make pin appear on location selector
   - [x] ❗️Fix bug where you can't like/unlike posts after you closed map and "create new post" form
   - [ ] **OPTIONAL:** Make warning messages if the mandatory fields are not filled.
+
+## Part 2.5: Post functionality ❌
+- [ ] Add "Comment" section (can't believe I forgot about this...)
+  - [ ] When clicked, open the post to another page, where you can also see the location of the picture
+
 ---
 
 ## Part 3: Bird AI Picture Detector ❌
@@ -35,6 +40,7 @@ A checklist with TODO's for my Bachelor's project, since it is easier for me to 
 
 ## Part 4: Statistics ❌
 - [ ] Create map section to see location of every post on platform
+- [ ] ❗️Fix bug where the dates are not showing in order...(clearly it's something from the SQL query) 
 - [ ] Tie API results to "Most seen 5 bird species" stats
 - [ ] Use post coordinates to compute closest city
   - [ ] Add locations to "Top 5 locations" stats
