@@ -4,17 +4,17 @@ A checklist with TODO's for my Bachelor's project, since it is easier for me to 
 
 ## Part 1: Login - Register Form ❌
 
-- [ ] Login working (by default in APEX)
-  - [ ] Link login process to SM_USERS
+- [x] Login working (by default in APEX)
+  - [x] Link login process to SM_USERS
   - [x] Make a "Forgot Password" field
-  - [ ] Make the application send a verification code on the email
+  - [x] Make the application send a verification code on the email
     
 - [x] Make SQL table for users (SM_USERS)
 
-- [ ] Finish Register Page
+- [x] Finish Register Page
   - [x] Add field for confirm password
-  - [ ] Validations
-  - [ ] Create Authentication scheme in APEX Shared Components
+  - [x] Validations
+  - [x] Create Authentication scheme in APEX Shared Components
       
  ---    
 
