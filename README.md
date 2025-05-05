@@ -2,7 +2,7 @@
 A checklist with TODO's for my Bachelor's project, since it is easier for me to keep the list somewhere and see my progress so far.
 
 
-## Part 1: Login - Register Form ❌
+## Part 1: Login - Register Form ✅
 
 - [x] Login working (by default in APEX)
   - [x] Link login process to SM_USERS
