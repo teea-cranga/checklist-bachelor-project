@@ -22,7 +22,7 @@ A checklist with TODO's for my Bachelor's project, since it is easier for me to 
 - [x] Make all buttons functional
   - [x] Make pin appear on location selector
   - [x] ❗️Fix bug where you can't like/unlike posts after you closed map and "create new post" form
-  - [ ] **OPTIONAL:** Make warning messages if the mandatory fields are not filled.
+  - [x] **OPTIONAL:** Make warning messages if the mandatory fields are not filled.
 
 ## Part 2.5: Post functionality ❌
 - [ ] Add "Comment" section (can't believe I forgot about this...)
@@ -31,18 +31,21 @@ A checklist with TODO's for my Bachelor's project, since it is easier for me to 
 ---
 
 ## Part 3: Bird AI Picture Detector ❌
-- [ ] Create .py script with the API
-  - [ ] Add Python Rest API plugin in application
-  - [ ] Make it work
+- [x] Create .py script with the API
+  - [ ] ❗️Fix bug where it accepts only .jpg/.jpeg files
+- [ ] Deploy on Google
+- [ ] Make PL/SQL Dynamic Action 
   - [ ] Make a section on posts where the bird species is shown
 
 ---
 
 ## Part 4: Statistics ❌
 - [x] Create map section to see location of every post on platform
-- [x] ❗️Fix bug where the dates are not showing in order...(clearly it's something from the SQL query) 
+- [x] ❗️Fix bug where the dates are not showing in order...(clearly it's something from the SQL query)
 - [ ] Tie API results to "Most seen 5 bird species" stats
-- [ ] Use post coordinates to compute closest city
+- [x] ~Use post coordinates to compute closest city~  **this was a bit vague, I will explain in the following checked items what I did**
+- [x] Find API for reversed geolocation
+- [x] Create Dynamic Action in PL/SQL which calls the API
   - [ ] Add locations to "Top 5 locations" stats
  
 ---
@@ -52,3 +55,7 @@ A checklist with TODO's for my Bachelor's project, since it is easier for me to 
   - [ ] Add function that updates the bird showed on post
 - [ ] Add report function
 - [ ] Make validations
+
+---
+
+# PROGRESS: 19/31 (~ 61% DONE) ❌
