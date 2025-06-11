@@ -25,15 +25,15 @@ A checklist with TODO's for my Bachelor's project, since it is easier for me to 
   - [x] **OPTIONAL:** Make warning messages if the mandatory fields are not filled.
 
 ## Part 2.5: Post functionality ❌
-- [ ] Add "Comment" section (can't believe I forgot about this...)
+- [X] Add "Comment" section (can't believe I forgot about this...)
   - [ ] When clicked, open the post to another page, where you can also see the location of the picture
 
 ---
 
 ## Part 3: Bird AI Picture Detector ❌
 - [x] Create .py script with the API
-  - [ ] ❗️Fix bug where it accepts only .jpg/.jpeg files
-- [ ] Deploy on Google
+  - [X] ❗️Fix bug where it accepts only .jpg/.jpeg files
+- [X] Deploy on Blender
 - [ ] Make PL/SQL Dynamic Action 
   - [ ] Make a section on posts where the bird species is shown
 
@@ -46,7 +46,7 @@ A checklist with TODO's for my Bachelor's project, since it is easier for me to 
 - [x] ~Use post coordinates to compute closest city~  **this was a bit vague, I will explain in the following checked items what I did**
 - [x] Find API for reversed geolocation
 - [x] Create Dynamic Action in PL/SQL which calls the API
-  - [ ] Add locations to "Top 5 locations" stats
+  - [x] Add locations to "Top 5 locations" stats
  
 ---
 
@@ -58,4 +58,4 @@ A checklist with TODO's for my Bachelor's project, since it is easier for me to 
 
 ---
 
-# PROGRESS: 19/31 (~ 61% DONE) ❌
+# PROGRESS: 23/31 (~ 74% DONE) ❌
