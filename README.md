@@ -30,19 +30,19 @@ A checklist with TODO's for my Bachelor's project, since it is easier for me to 
 
 ---
 
-## Part 3: Bird AI Picture Detector ❌
+## Part 3: Bird AI Picture Detector ✅
 - [x] Create .py script with the API
   - [X] ❗️Fix bug where it accepts only .jpg/.jpeg files
 - [X] Make the tunneling thingy for ngrok
-- [ ] Make PL/SQL Dynamic Action 
-  - [ ] Make a section on posts where the bird species is shown
+- [x] Make a trigger for it
+  - [x] Make a section on posts where the bird species is shown
 
 ---
 
-## Part 4: Statistics ❌
+## Part 4: Statistics ✅
 - [x] Create map section to see location of every post on platform
 - [x] ❗️Fix bug where the dates are not showing in order...(clearly it's something from the SQL query)
-- [ ] Tie API results to "Most seen 5 bird species" stats
+- [x] Tie API results to "Most seen 5 bird species" stats
 - [x] ~Use post coordinates to compute closest city~  **this was a bit vague, I will explain in the following checked items what I did**
 - [x] Find API for reversed geolocation
 - [x] Create Dynamic Action in PL/SQL which calls the API
@@ -59,4 +59,6 @@ A checklist with TODO's for my Bachelor's project, since it is easier for me to 
 
 ---
 
-# PROGRESS: 29/32 (~ 90% DONE) ❌
+# PROGRESS: 32/32 (100% DONE) ✅
+
+![I'M OFFICIALLY DONE WITH THIS](https://media.istockphoto.com/id/681640432/photo/silhouette-image-of-a-businessman-with-broken-chains-in-sunset.jpg?s=612x612&w=0&k=20&c=MALr3yBSfE8HbCAlVV03zWzMFtbJSHyOuUh2lTOFyTE=)
