@@ -61,4 +61,18 @@ A checklist with TODO's for my Bachelor's project, since it is easier for me to 
 
 # PROGRESS: 32/32 (100% DONE) ✅
 
-![I'M OFFICIALLY DONE WITH THIS](https://media.istockphoto.com/id/681640432/photo/silhouette-image-of-a-businessman-with-broken-chains-in-sunset.jpg?s=612x612&w=0&k=20&c=MALr3yBSfE8HbCAlVV03zWzMFtbJSHyOuUh2lTOFyTE=)
+# Got more tasks to do 
+
+## Part 6: User Roles in Application ❌
+- [ ] Add a login page for admins
+- [ ] Add a report for admins to see accounts
+- [ ] Add a page for admins to see all posts
+  - [ ] Make them able to delete any post
+- [ ] Add a personal page for each user to see ONLY their posts
+
+## Bug fixes❌
+  
+- [ ] Fix the post map page (query error)
+
+# PROGRESS: 0/6 (0% DONE) ❌ 
+
