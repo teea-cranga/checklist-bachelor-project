@@ -63,18 +63,18 @@ A checklist with TODO's for my Bachelor's project, since it is easier for me to 
 
 # Got more tasks to do 
 
-## Part 6: User Roles in Application ❌
+## Part 6: User Roles in Application ✅
 - [x] ~Add a login page for admins~ **I decided to change visibility and add security measures for admin pages because an admin login is both redundant and adds more complications to the authentication process**
 - [x] Add a report for admins to see accounts
-- [ ] Add a page for admins to see all posts
+- [x] Add a page for admins to see all posts
   - [x] Make them able to delete any post
   
 ### **NOTE: I don't have the admin page, but I made the possibility for them to just delete posts**
 - [x] Add a personal page for each user to see ONLY their posts
 
-## Bug fixes❌
+## Bug fixes ✅
   
 - [x] Fix the post map page (query error) 
 
-# PROGRESS: 5/6 (83% DONE) ❌ 
+# PROGRESS: 6/6 (100% DONE) ✅
 
